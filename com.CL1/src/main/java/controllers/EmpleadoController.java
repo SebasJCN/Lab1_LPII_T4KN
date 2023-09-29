@@ -91,6 +91,6 @@ public class EmpleadoController {
 		}catch(Exception e) {
 			e.printStackTrace();
 		}
-		return "Usuario no encontrado";
+		return "Empleado no encontrado";
 	}
 }
