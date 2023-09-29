@@ -1,5 +1,4 @@
 # Ignorar archivos y carpetas de Eclipse IDE
 .metadata/
 
-# Ignorar la carpeta com.CL1/
-com.CL1/
+
